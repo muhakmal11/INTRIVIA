@@ -8,3 +8,5 @@
 [Menurut saya, INTRIVIA 2026 menjadi pengalaman baru yang menarik karena memberikan kesempatan untuk belajar, beradaptasi, dan mengenal lingkungan perkuliahan lebih dalam. Kegiatan ini juga melatih kedisiplinan, tanggung jawab, serta kemampuan bekerja sama dengan orang lain.]
 ## Kesan Pesan Cluster 7 Sejauh Ini
 [Menurut saya, cluster ini memberikan pengalaman yang menyenangkan karena dapat bertemu dengan teman-teman baru, saling mengenal, dan belajar bekerja sama. Ditambah lagi dengan kehadiran fasilitator yang sangat membantu dalam memberikan arahan, mendampingi setiap kegiatan, serta menciptakan suasana yang nyaman dan interaktif. Semoga kebersamaan antara teman-teman satu cluster dan fasilitator terus terjaga hingga seluruh rangkaian INTRIVIA selesai.]
+## Harapan Kuliah
+[Saya berharap selama menjalani perkuliahan di Teknik Komputer, saya dapat terus mengembangkan pengetahuan dan keterampilan di bidang teknologi, khususnya pemrograman dan sistem komputer. Saya juga berharap dapat memperoleh banyak pengalaman baru, memperluas relasi, serta berkontribusi melalui ilmu yang saya pelajari untuk menghadapi tantangan di masa depan.]
